@@ -1,2 +1,4 @@
 # simple-dom-javascript
-Simple DOM Javascript Program
+Program Javascript DOM Sederhana:
+-
+- Simple Color Picker
