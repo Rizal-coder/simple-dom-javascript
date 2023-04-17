@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>DOM Exercise - Simple Color Picker</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	
+	<h1>Play with colors</h1>
+	<button type="button" id="tUbahWarna">Change color</button>
+
+	<br><br>
+	<div class="kotak merah"></div>
+	<input type="range" name="sMerah" min="0" max="255">
+
+	<div class="kotak hijau"></div>
+	<input type="range" name="sHijau" min="0" max="255">
+
+	<div class="kotak biru"></div>
+	<input type="range" name="sBiru" min="0" max="255">
+
+	<div class="tooltip">
+		<textarea readonly>rgb(0,0,0)</textarea>
+	</div>
+	<button type="button" id="copyWarna">Copy color</button>
+
+<script src="funct.js"></script>
+<script src="script.js"></script>	
+</body>
+</html>
