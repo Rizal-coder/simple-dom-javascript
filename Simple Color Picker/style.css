@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+}
+.biru-muda {background-color: lightblue;}
+.kotak {
+	width: 30px;
+	height: 30px;
+	margin: 10px auto;
+	border: 3px solid white;
+	border-radius: 5px;
+	box-sizing: border-box;
+}
+.merah { background-color: red; }
+.hijau { background-color: green; }
+.biru { background-color: blue; }
+
+.tooltip {
+	margin: 10px auto;
+	box-sizing: border-box;
+}
+.tooltip textarea { 
+	width: 250px;
+	height: 50px;
+	background-color: white;
+	border-radius: 5px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 25px;
+}
