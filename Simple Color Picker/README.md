@@ -1,5 +1,6 @@
 Note:
 
+
 - Case 1: 
 	- Mengubah warna background menjadi lightblue(biru muda) 
 	- Tambah event 'click' pada tombol change color.
