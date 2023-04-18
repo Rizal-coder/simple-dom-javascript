@@ -5,3 +5,4 @@ Program Javascript DOM Sederhana:
 - Suwit Jawa V2.0
 - DOM Traversal
 - Event Bubbling
+- preventDefault()
