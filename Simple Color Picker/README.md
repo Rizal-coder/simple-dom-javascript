@@ -1,5 +1,5 @@
+# Simple Color Picker
 Note:
-
 
 - Case 1: 
 	- Mengubah warna background menjadi lightblue(biru muda) 
