@@ -33,3 +33,5 @@ DOM MANIPULATION NODE
 - childNode.remove() = Menghapus elemen yang ada
 - childNode.replaceWith() = Mengganti elemen 
 
+Source: script-2.js
+
