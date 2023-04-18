@@ -15,3 +15,9 @@ DOM MANIPULATION ELEMENT
   - .classList.item(): Mendapatkan class sesuai index.
   - .classList.contains(): Mengecek apakah class tertentu sudah ada atau belum, menghasilkan nilai true & false.
   - .classList.replace(): Mengganti class tertentu dengan class yang baru.
+
+Source: script.js
+
+DOM MANIPULATION NODE
+-
+
