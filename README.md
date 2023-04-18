@@ -6,3 +6,4 @@ Program Javascript DOM Sederhana:
 - DOM Traversal
 - Event Bubbling
 - preventDefault()
+- Photo Gallery
